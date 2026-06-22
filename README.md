@@ -33,6 +33,8 @@ This project was developed as part of the Machine Learning for knowledge and und
 <img width="670" height="165" alt="3" src="https://github.com/user-attachments/assets/a6678d90-e930-44c6-a6f2-a51f730baec6" />
 <img width="955" height="463" alt="4" src="https://github.com/user-attachments/assets/e0e8b153-2594-4d1e-8447-22b2999ed35b" />
 <img width="948" height="467" alt="5" src="https://github.com/user-attachments/assets/082bfcab-e82c-462c-8595-dd40c4ddccf5" />
+<img width="1863" height="949" alt="image" src="https://github.com/user-attachments/assets/02289e95-da5f-4aa4-a48d-2e910288f58e" />
+<img width="1859" height="940" alt="image" src="https://github.com/user-attachments/assets/4652b4f3-fc62-4a57-9d2c-d0b0a3d02ec9" />
 
 
 
