@@ -23,8 +23,8 @@ The Student Performance Prediction System is a Flask-based Machine Learning web 
 - HTML
 - CSS
 
-## Demo / Screenshots
-
-
 ## Supervision
 This project was developed as part of the Machine Learning for knowledge and understanding under the supervision of Sir Sabiq.
+
+## Screenshots
+"C:\Users\DELL\Pictures\Screenshots\Screenshot 2026-06-22 175111.png"
